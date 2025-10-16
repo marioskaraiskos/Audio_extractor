@@ -15,11 +15,6 @@ Audio Extractor is a **cross-platform Flutter application** that allows you to d
 
 ---
 
-## Screenshots
-
-*(Add your screenshots here to showcase the app UI)*
-
----
 
 ## Getting Started
 
