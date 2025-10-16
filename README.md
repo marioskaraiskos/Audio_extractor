@@ -41,7 +41,6 @@ flutter pub get
 
 3. **Setup Backend Server**
 
-cd server
 python -m venv venv
 source venv/Scripts/activate  # Windows
 pip install -r requirements.txt  # or pip install fastapi uvicorn yt-dlp
